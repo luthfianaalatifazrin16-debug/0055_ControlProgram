@@ -3,3 +3,7 @@
 #include <cstdlib> // Dibutuhkan untuk rand() dan srand()
 
 using namespace std;
+
+int main()
+{
+}
